@@ -26,3 +26,6 @@ proguard/
 
 # wild card
 *.*~
+
+#settings file
+.settings/
