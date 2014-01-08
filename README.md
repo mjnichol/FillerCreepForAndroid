@@ -3,6 +3,8 @@ FillerCreepForAndroid
 
 A Game that Attempts to Demo MVC for Android
 
+Mike's implementation of Filler Creep
+
 License
 =======
 
